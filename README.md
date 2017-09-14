@@ -1,4 +1,4 @@
-# Simple Reatime Selenium Testcase Example
+# Simple Realtime Selenium Testcase Example
 # TESTCASE:
  Login to the Github
 # Implementation:

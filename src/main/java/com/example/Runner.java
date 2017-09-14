@@ -6,9 +6,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by z002956 on 9/14/17.
- */
 public class Runner {
 
     public static String driverPath = "src/main/resources/";
